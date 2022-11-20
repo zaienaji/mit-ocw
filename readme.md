@@ -16,4 +16,6 @@
     14[6.036 Introduction To Machine Learning]
     16[18.01 Single Variable Calculus] --> 8
     8 --> 17[6.045J Automata, Computability, And Complexity]
+    8 --> 18[6.046J Design And Analysis Of Algorithms]
+    7 --> 18
 ```
