@@ -8,4 +8,7 @@
     6[6.005 Elements Of Software Construction]
     2 --> 7[6.006 Introduction To Algorithms]
     8[6.42J Mathematics For Computer Science] --> 7
+    9[6.00SC Introduction To Computer Science And Programming]
+    5 --> 10[6.033 Computer System Engineering]
+    6 --> 10
 ```
