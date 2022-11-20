@@ -11,4 +11,9 @@
     9[6.00SC Introduction To Computer Science And Programming]
     5 --> 10[6.033 Computer System Engineering]
     6 --> 10
+    4 --> 11[6.034 Artificial Intelligence]
+    13[6.170 Laboratory In Software Engineering] --> 12[6.035 Computer Language Engineering]
+    14[6.036 Introduction To Machine Learning]
+    16[18.01 Single Variable Calculus] --> 15[6.042J Mathematics For Computer Science]
+    15 --> 17[6.045J Automata, Computability, And Complexity]
 ```
