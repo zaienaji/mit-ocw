@@ -14,6 +14,6 @@
     4 --> 11[6.034 Artificial Intelligence]
     13[6.170 Laboratory In Software Engineering] --> 12[6.035 Computer Language Engineering]
     14[6.036 Introduction To Machine Learning]
-    16[18.01 Single Variable Calculus] --> 15[6.042J Mathematics For Computer Science]
-    15 --> 17[6.045J Automata, Computability, And Complexity]
+    16[18.01 Single Variable Calculus] --> 8
+    8 --> 17[6.045J Automata, Computability, And Complexity]
 ```
